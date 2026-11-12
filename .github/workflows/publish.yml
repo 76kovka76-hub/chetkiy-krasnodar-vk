@@ -1,0 +1,54 @@
+name: Чёткий Краснодар — новости ВК
+
+on:
+  schedule:
+    - cron: "4-59/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chetkiy-krasnodar-vk-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 9
+    steps:
+      - name: Checkout Krasnodar repository
+        uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Run offline tests
+        run: python -m unittest -v test_bot.py
+      - name: Check Krasnodar VK secret in manual test
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          KRASNODAR_VK_TOKEN: ${{ secrets.KRASNODAR_VK_TOKEN }}
+        shell: bash
+        run: |
+          if [[ -z "$KRASNODAR_VK_TOKEN" ]]; then
+            echo "::error::Missing KRASNODAR_VK_TOKEN secret"
+            exit 1
+          fi
+          echo "Krasnodar community token is available (value hidden)."
+      - name: Preview Krasnodar news or a game, no real posts
+        env:
+          KRASNODAR_VK_TOKEN: ${{ secrets.KRASNODAR_VK_TOKEN }}
+          DRY_RUN: "true"
+        run: python main.py
+      - name: Save history if changed
+        if: success()
+        run: |
+          if [[ -n "$(git status --porcelain history.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add history.json
+            git commit -m "Update Krasnodar post history"
+            git pull --rebase
+            git push
+          fi
