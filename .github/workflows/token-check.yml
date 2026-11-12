@@ -1,0 +1,39 @@
+name: Краснодар — проверка токена и новостей
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/token-check.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Run tests
+        run: python -m unittest -v test_bot.py
+      - name: Confirm Krasnodar VK token is configured
+        env:
+          KRASNODAR_VK_TOKEN: ${{ secrets.KRASNODAR_VK_TOKEN }}
+        shell: bash
+        run: |
+          if [[ -z "$KRASNODAR_VK_TOKEN" ]]; then
+            echo "::error::Missing KRASNODAR_VK_TOKEN secret"
+            exit 1
+          fi
+          echo "Krasnodar VK token exists (secret not printed)."
+      - name: Check news in dry-run
+        env:
+          DRY_RUN: "true"
+        run: python main.py
