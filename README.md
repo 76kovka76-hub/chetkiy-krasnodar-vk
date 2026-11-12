@@ -26,11 +26,13 @@
 3. ID группы **243223484 уже прописан в коде**; второй секрет с ID не требуется.
 4. Для сохранения истории включите `Settings → Actions → General → Workflow permissions → Read and write permissions`.
 
-## Сначала тестируем
-- В главном workflow сейчас **`DRY_RUN: "true"`**: бот *не публикует реальные посты*, а только создаёт образец в логе.
-- В [GitHub Actions](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/actions/workflows/publish.yml) можно нажать **Run workflow** и проверить видимость секретного токена и текст.
-- Отдельный [CI](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/actions/workflows/ci.yml) проверяет код и доступность новостей без токена и без публикации.
-- После проверки переключаем `DRY_RUN` на `"false"` для живой публикации. Реальная отправка подтвердит достаточность прав VK-токена.
+## Статус: реальные публикации включены
+- В [главном workflow](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/blob/main/.github/workflows/publish.yml) стоит `DRY_RUN: "false"`: новые запуски по расписанию могут публиковать новости и интерактивные посты.
+- [Проверка токена и источников](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/actions/runs/43254682495) подтвердила наличие `KRASNODAR_VK_TOKEN`, 18 тестов и доступность обеих RSS-лент.
+- **Первая реальная публикация подтверждена:** [https://vk.com/wall-243223484_1](https://vk.com/wall-243223484_1). [Логи первого поста](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/actions/runs/43254877429).
+- До 30 записей в сутки, по одной на 48-минутный временной слот. При отсутствии свежей городской новости возможен вопрос для подписчиков — до 4 таких постов в сутки, с ограничениями по времени.
+- [Следить за автоматическими запусками](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/actions/workflows/publish.yml); [смотреть историю публикаций](https://github.com/76kovka76-hub/chetkiy-krasnodar-vk/blob/main/history.json).
+- Для остановки верните `DRY_RUN: "true"` в workflow или отключите workflow в GitHub Actions. Первая публикация проверила права токена; работа расписания на протяжении суток пока ещё не подтверждена.
 
 ## Ограничения
 - **30 постов — верхний предел**, не гарантия: при отсутствии новостей и подходящих игр бот пропускает слот.
