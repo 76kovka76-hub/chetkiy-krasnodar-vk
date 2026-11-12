@@ -1,0 +1,44 @@
+name: Краснодар — первый пост в ВК
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/first-post.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chetkiy-krasnodar-vk-publisher
+  cancel-in-progress: false
+
+jobs:
+  first-post:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Validate bot before sending
+        run: python -m unittest -v test_bot.py
+      - name: Send one VK welcome post for community 243223484
+        env:
+          KRASNODAR_VK_TOKEN: ${{ secrets.KRASNODAR_VK_TOKEN }}
+        run: python first_post_once.py
+      - name: Save post history
+        if: success()
+        run: |
+          if [[ -n "$(git status --porcelain history.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add history.json
+            git commit -m "Record first published Krasnodar VK post"
+            git pull --rebase
+            git push
+          fi
