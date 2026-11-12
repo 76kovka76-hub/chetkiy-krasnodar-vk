@@ -36,10 +36,10 @@ jobs:
             exit 1
           fi
           echo "Krasnodar community token is available (value hidden)."
-      - name: Preview Krasnodar news or a game, no real posts
+      - name: Publish Krasnodar news or a subscriber game
         env:
           KRASNODAR_VK_TOKEN: ${{ secrets.KRASNODAR_VK_TOKEN }}
-          DRY_RUN: "true"
+          DRY_RUN: "false"
         run: python main.py
       - name: Save history if changed
         if: success()
