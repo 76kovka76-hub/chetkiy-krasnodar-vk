@@ -8,13 +8,27 @@
       "title": "Приветственный пост и знакомство",
       "text": "🌴 Братва, «Чёткий Краснодар» на связи — кто из какого района, пишите в комменты!",
       "published_at": "2026-11-12T16:05:44.176131+00:00"
+    },
+    {
+      "slot": "2026-11-12-25",
+      "post_id": 2,
+      "source": "Google Новости",
+      "title": "Мастера в Краснодаре создали 12 врат для храма Армянской апостольской церкви - Кубань 24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEg3S1h6Nzl0NFlad3hSODI5ZF9LaXV6dGJkS1V3djBYSWExbmcwUXBodWswc3N0WDI4NVlKcHduTUs1Y3RsLTYwWXFEU2FPVWdoMFRYNTJsQWp5bkZFUVhESEpzM0pyQ0o1WTh4NFNDSG5ibEdyS2l6NG0zUEg2UWtseFlHcDBkdHU4LWwyRnpFem1OYXVQSER6Y1ZHM3pxUjFVag?oc=5",
+      "text": "🏙️ Братва, Мастера в Краснодаре создали 12 врат для храма Армянской апостольской церкви.",
+      "published_at": "2026-11-12T17:03:29.758671+00:00"
     }
   ],
-  "used_links": [],
+  "used_links": [
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEg3S1h6Nzl0NFlad3hSODI5ZF9LaXV6dGJkS1V3djBYSWExbmcwUXBodWswc3N0WDI4NVlKcHduTUs1Y3RsLTYwWXFEU2FPVWdoMFRYNTJsQWp5bkZFUVhESEpzM0pyQ0o1WTh4NFNDSG5ibEdyS2l6NG0zUEg2UWtseFlHcDBkdHU4LWwyRnpFem1OYXVQSER6Y1ZHM3pxUjFVag"
+  ],
   "used_tags": [
     "#КраснодарНаСвязи",
     "#КраснодарЗнакомимся",
-    "#КраснодарНашЧат"
+    "#КраснодарНашЧат",
+    "#КраснодарГород",
+    "#КраснодарНашГород",
+    "#КраснодарГородскаяЖизнь"
   ],
   "skipped_links": []
 }
