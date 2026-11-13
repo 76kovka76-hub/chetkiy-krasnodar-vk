@@ -206,6 +206,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBJR3Jaa0RKdWZrM3hQeDN6QUJ0dzQyVWU4Q1g5cjJSeEZhcTRjaXJ0N3ZmNTdQZkg2MWpCWkl0dHJVX1ZVMEtFSkl0VWN6RV9lSTRCbnZIcER3TGFtRmVnLWNGeXBjb2V0TXpyV3lSZUI4b3Z2cTg0YnJ6ZmVNM1pGcVNIdmxFbVZjYUJ0ZXlHazRQdk1mR2U3cXlLQzVQ?oc=5",
       "text": "🎭 Братва, Международная сельскохозяйственная выставка «ЮГАГРО» пройдет в Краснодаре.",
       "published_at": "2026-11-13T12:40:37.860976+00:00"
+    },
+    {
+      "slot": "2026-11-13-21",
+      "post_id": 24,
+      "source": "Google Новости",
+      "title": "Кубанские пятиборцы завоевали медали всероссийских соревнований в Краснодаре - Новая Кубань",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SV19mVG9BRVdlX3BGZXVNU29QbFU4aldlNllNZ2F5cnhKejdrbUZhNzQ4VFoySjFHTU80QjdiSThfNmJaNTFOdW9Gcw?oc=5",
+      "text": "🏆 Народ, Кубанские пятиборцы завоевали медали всероссийских соревнований в Краснодаре.",
+      "published_at": "2026-11-13T13:55:38.336905+00:00"
     }
   ],
   "used_links": [
@@ -230,7 +239,8 @@
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zUHZpVDBUSjhqWmZZS0N5aUU2OFNKdHZtb3V2b0gyRFV0N2VLcUJ6dVpRZXZmd0hMOTh0QkdUc0M3MzdaZC02Yk5pYkpySHk5",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96RUxnWkk3bjJlZW02TFJUdVhRNW5MX2ZTM2loLWN6MlRTUzJ6dnNrdU5SX0wyZGcwVHJZTFdzMHBnUXNPZG1ET0hMcw",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ERU5lN3lXTi1HVjVFb0FoMzVsc2psX0Zab0Jpb1F5VlBvSUNjSXR0TnVRRER2UDZadG5jNlNudEs3QlA0a3NJWWRiTQ",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBJR3Jaa0RKdWZrM3hQeDN6QUJ0dzQyVWU4Q1g5cjJSeEZhcTRjaXJ0N3ZmNTdQZkg2MWpCWkl0dHJVX1ZVMEtFSkl0VWN6RV9lSTRCbnZIcER3TGFtRmVnLWNGeXBjb2V0TXpyV3lSZUI4b3Z2cTg0YnJ6ZmVNM1pGcVNIdmxFbVZjYUJ0ZXlHazRQdk1mR2U3cXlLQzVQ"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBJR3Jaa0RKdWZrM3hQeDN6QUJ0dzQyVWU4Q1g5cjJSeEZhcTRjaXJ0N3ZmNTdQZkg2MWpCWkl0dHJVX1ZVMEtFSkl0VWN6RV9lSTRCbnZIcER3TGFtRmVnLWNGeXBjb2V0TXpyV3lSZUI4b3Z2cTg0YnJ6ZmVNM1pGcVNIdmxFbVZjYUJ0ZXlHazRQdk1mR2U3cXlLQzVQ",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SV19mVG9BRVdlX3BGZXVNU29QbFU4aldlNllNZ2F5cnhKejdrbUZhNzQ4VFoySjFHTU80QjdiSThfNmJaNTFOdW9Gcw"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -301,7 +311,10 @@
     "#КраснодарНашГород",
     "#КраснодарАфиша",
     "#КраснодарСобытия",
-    "#КраснодарКультура"
+    "#КраснодарКультура",
+    "#КраснодарМатчи",
+    "#КраснодарНашиСпортсмены",
+    "#КраснодарСпорт"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
