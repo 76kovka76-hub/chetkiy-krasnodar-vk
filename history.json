@@ -152,6 +152,15 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RNUWFFYUNDTG90OTdRYU5uSWhlbFJ4bjdzVzFoVW55OW1fbTFfSzFySURqS0gyZjg0YmVUWTZQLXVKb2NHN283VDdNUVg2MFNua0E2MGVtQl94SGVwYjBoQ19tcUhSbUlINlJFQXM0MUJJX05uWkdjSG9IM01VZFZyYXYzWjVOWUx2Ug?oc=5",
       "text": "🏙️ Народ, Губернатор Вениамин Кондратьев постоянно покидает Краснодар - Новости Краснодара.",
       "published_at": "2026-11-13T06:31:29.054669+00:00"
+    },
+    {
+      "slot": "2026-11-13-13",
+      "post_id": 18,
+      "source": "Google Новости",
+      "title": "Российский боксер Силягин победил иранца Сайджада на турнире в Краснодаре - sport-interfax.ru",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SXpWWDBjZ0FsT2hvS2pPdmV0T1R6SHRRRXVibi1JTDNGSDJGckVLYzhyQ2VDTFhUWXZLMTNOQ2czWDN0eXRyd0YwdGo4QdIBU0FVX3lxTE1nWEtPWHU0cktLVXZWZnl4SDlIMzV5WmFUdzNFdEU0Q0xSWjJDN01TMkFwQ3lnc2FsVUQzQWdxLUtxbzNDQzNPZkllbXJRazBWVmJ3?oc=5",
+      "text": "🏆 Родные, Российский боксер Силягин победил иранца Сайджада на турнире в Краснодаре - sport-interfax.ru.",
+      "published_at": "2026-11-13T07:52:13.070964+00:00"
     }
   ],
   "used_links": [
@@ -170,7 +179,8 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOElIY2Y4WkFUalpOSnFDenNpRWQ4ZU9FZlVhSDRHQUlJbnNVYWp3TS10Zk4zN3ZzNlhHWjNPaERtTmIyRzQ0ZTZndnBkMGY5UkIza3MzQWFHUlFBTTZBUjVKbEdFXzN5RjZnNFFIc1dFaEt4SDh5STZ5VTgzQl9vdU5NODVHUVU",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZyMXNiYk9CRTFtNTRqb0s1TzhNN2xCdHVzUWMyczJiUXdQMkhKVlpmQV9QQVJRQmVwckZhWEhfWVRTOG0tejlYTXpoaEVHN2VzMkNKWEVVMWlBMzgzVVBqZjRTYUU3OEVmWjBoYlpCYVd3RkgzMVRSem8wNVB0QVdMbl85bTBFaW93UFVvQm5FSWhzSXhnNDNydjdqMlpqZWxHTWw2YllkYlpJdXRPRFlfNGtLNlBCOWRCeg",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzdHQmdDVUZneXp5cTRGOGZGOEg1bjJxX2h2elAweTRzbEVPOFFuWXZqUW5wMlhSZXVwQzhfT1BlRk04WjdCM2xUdGRVUUloSzFhY3ZGblVYbGF5ekREbW5BbzdaT0NRZ0dnT0Z1cVUwX1dRbmV5U1A2VXlKVWxZclo2SzJqakFwajNld21rTnJYMURpNDJNcw",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RNUWFFYUNDTG90OTdRYU5uSWhlbFJ4bjdzVzFoVW55OW1fbTFfSzFySURqS0gyZjg0YmVUWTZQLXVKb2NHN283VDdNUVg2MFNua0E2MGVtQl94SGVwYjBoQ19tcUhSbUlINlJFQXM0MUJJX05uWkdjSG9IM01VZFZyYXYzWjVOWUx2Ug"
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RNUWFFYUNDTG90OTdRYU5uSWhlbFJ4bjdzVzFoVW55OW1fbTFfSzFySURqS0gyZjg0YmVUWTZQLXVKb2NHN283VDdNUVg2MFNua0E2MGVtQl94SGVwYjBoQ19tcUhSbUlINlJFQXM0MUJJX05uWkdjSG9IM01VZFZyYXYzWjVOWUx2Ug",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SXpWWDBjZ0FsT2hvS2pPdmV0T1R6SHRRRXVibi1JTDNGSDJGckVLYzhyQ2VDTFhUWXZLMTNOQ2czWDN0eXRyd0YwdGo4QdIBU0FVX3lxTE1nWEtPWHU0cktLVXZWZnl4SDlIMzV5WmFUdzNFdEU0Q0xSWjJDN01TMkFwQ3lnc2FsVUQzQWdxLUtxbzNDQzNPZkllbXJRazBWVmJ3"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -223,9 +233,14 @@
     "#КраснодарДвижение",
     "#КраснодарРайоны",
     "#КраснодарБлагоустройство",
-    "#КраснодарГород"
+    "#КраснодарГород",
+    "#КраснодарНашиСпортсмены",
+    "#КраснодарСпорт",
+    "#КраснодарКоманды"
   ],
   "skipped_links": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWVqQXdPVTI3OUZqckRvMGhRODk5TmxGbXVmQU5oenloYlBseHhYM2NTN050RTZKbWNzZm44NHhyLUNNczR0R0c4LVd2cjMwNkJOMXhpLUdMY3pBUXpRSzRqcmQ4cHZJYnhoMkpiVC1Bck9ZZkRkNTQzc0lONmF3N1RpU2pOUWlZcm5lRGM2a1U5SGpuUldLdnEtMHlXdTVvYVFqZUp3YXNyTDF5SG1zRzNMU2VwTllobE5Xd0VUbjR0ZkE1WUZvZ3pqd2hWdHM3REE",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0puRDdTM2d3VHpIMS1hMmRRb182aEpDT0k1VTVpM2dJaWNvV0diM0dTZmxwRVBtX2Qzc0I4VEx1VGxwR0RoVTVBR3VUbm9UYWI4amNkMVk4RnVFWnlQMWJXNUo1VG5lMjdUVTdybUVaTi1fb1dqTUx6QmJEaGhPbVdaek5jelR4ZlhBOTF0NDAtdGYwR0ptODJsSUptUmVWdHRJdzh6ZWs2NVFzUmI0dlYydWJHQjZJ"
   ]
 }
