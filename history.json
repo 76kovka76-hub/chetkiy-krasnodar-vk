@@ -260,6 +260,15 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkVwNlg5VG4weEJzaW1DMmU5aS15OFVGY3BjazBsRzcwaDZJUlJTMU8wMzh5MGY4UG14VGJuQnJnR3RMcnE3RS16YTZlbHkxc0xMdjFTM3AwNmY2NEJZUU9ZY1RqMGRKcVNuOWZZY3Rra2d6MXJjcktDbmU1NjZhZklDVkxpSldhSkx3bUp3NE5xYzdackVENnBBY1I4UVk?oc=5",
       "text": "🏙️ Пацаны, Вопросы профилактики экстремизма в молодежной среде обсудили в Краснодаре.",
       "published_at": "2026-11-13T18:19:06.672360+00:00"
+    },
+    {
+      "slot": "2026-11-13-27",
+      "post_id": 30,
+      "source": "Google Новости",
+      "title": "ЭСК оправдал все три спорных решения судившего «Краснодар» - ЦСКА Карасёва - The World Inform",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlNTa1RQdDhSNFRNbzJJTmxuOUhQUjRNblB6b2FHXzVmS1AtLUJJN0xnMTRmOWo0UDVXTDFwUUZTWTBhOVMxUEVaanJ4d2NkU0lEbE1sUEx3ODY2TFBxOUIxb2ZxbkZ6R1dyVUNoeE1oZVJrSEpUUEN5WGpsc3loTngyNmhVTDEtR0VLMXVxNlhNMEJvVEdmaWRnS2dfdHNIWV8xS1M1MGRHbTFhd0N1aEU5c1E?oc=5",
+      "text": "🏙️ Родные, ЭСК оправдал все три спорных решения судившего «Краснодар» - ЦСКА Карасёва.",
+      "published_at": "2026-11-13T19:22:14.596991+00:00"
     }
   ],
   "used_links": [
@@ -290,7 +299,8 @@
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00V0pqbVNLN0J1NHdZR2Y4Y2MxLXZRN1Exck9jeHNXR2RIMEllb05FNEZZZFd5RGl3OXVHdmlFajV4N3drV1E",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2lzNkEwWERkU1Q0dkJzVm9yMENvT2hWR3RtdzJJNTM4RlZNS1Etek4tZF9yMFB1cTdwbnJyVGdRNFNJbXMzYUx1YlpOaEsxTHlaMmlFN0F3V1B4N0d1aDhmbEl0bm53Y0Y3S051TUxyWmplMHFSZkVBLTE4REo0eEFqbkc1YUFnU2hfLVFlV21iX2hI",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WZURZbVdyVW9Sem5ocmhDbWdya3g0TzVtWGRhc1FYVkdUZjNUWHozclh6QjFhNUU0d1U5U040MVNTUVZfdUE",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkVwNlg5VG4weEJzaW1DMmU5aS15OFVGY3BjazBsRzcwaDZJUlJTMU8wMzh5MGY4UG14VGJuQnJnR3RMcnE3RS16YTZlbHkxc0xMdjFTM3AwNmY2NEJZUU9ZY1RqMGRKcVNuOWZZY3Rra2d6MXJjcktDbmU1NjZhZklDVkxpSldhSkx3bUp3NE5xYzdackVENnBBY1I4UVk"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkVwNlg5VG4weEJzaW1DMmU5aS15OFVGY3BjazBsRzcwaDZJUlJTMU8wMzh5MGY4UG14VGJuQnJnR3RMcnE3RS16YTZlbHkxc0xMdjFTM3AwNmY2NEJZUU9ZY1RqMGRKcVNuOWZZY3Rra2d6MXJjcktDbmU1NjZhZklDVkxpSldhSkx3bUp3NE5xYzdackVENnBBY1I4UVk",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlNTa1RQdDhSNFRNbzJJTmxuOUhQUjRNblB6b2FHXzVmS1AtLUJJN0xnMTRmOWo0UDVXTDFwUUZTWTBhOVMxUEVaanJ4d2NkU0lEbE1sUEx3ODY2TFBxOUIxb2ZxbkZ6R1dyVUNoeE1oZVJrSEpUUEN5WGpsc3loTngyNmhVTDEtR0VLMXVxNlhNMEJvVEdmaWRnS2dfdHNIWV8xS1M1MGRHbTFhd0N1aEU5c1E"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -379,7 +389,10 @@
     "#КраснодарБлагоустройство",
     "#КраснодарНашГород",
     "#КраснодарГородскаяЖизнь",
-    "#КраснодарРайоны"
+    "#КраснодарРайоны",
+    "#КраснодарГородскаяЖизнь",
+    "#КраснодарРайоны",
+    "#КраснодарБлагоустройство"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
