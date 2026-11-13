@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Run 18 offline checks
-        run: python -m unittest -v test_bot.py
+        run: python -m unittest -v test_bot.py test_news_quality.py
       - name: Preview Krasnodar news without publishing
         env:
           DRY_RUN: "true"
