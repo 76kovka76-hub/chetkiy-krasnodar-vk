@@ -170,6 +170,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVk5uTWxsbWJyVE43dmFZR25RTS1rbGIwaEt4Y0o5cHJpUVJTWTd0TThaWkhVaFB4YjhMeWtQM0pRSmZXUm1lY3B1MUtLSEx1UnBiVzNNR2FkeThoWGdmTm54cWtibWluQWNOOExYcFBnVXpRMEV3VXBRWmgxYTc4cHpfOG56ZFpKWWR3Y3NwbWZicXBxVFdsb2xhR3NjWkVfTjczZ3EySVRPM01YOW8xRnZGOGdvSmZiXzY4Zi1sUS1sYTIzbHNhMnNmWGdCV1RSTXhNYQ?oc=5",
       "text": "🏙️ Городские, Шли вдоль дома и резали колеса: неизвестные испортили семь автомобилей на парковке в Краснодаре.",
       "published_at": "2026-11-13T08:47:37.525036+00:00"
+    },
+    {
+      "slot": "2026-11-13-15",
+      "post_id": 20,
+      "source": "Google Новости",
+      "title": "Таиланд и Китай стали хитами зарубежного отдыха у жителей Краснодара - KrasnodarMedia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zUHZpVDBUSjhqWmZZS0N5aUU2OFNKdHZtb3V2b0gyRFV0N2VLcUJ6dVpRZXZmd0hMOTh0QkdUc0M3MzdaZC02Yk5pYkpySHk5?oc=5",
+      "text": "🏙️ Пацаны, Таиланд и Китай стали хитами зарубежного отдыха у жителей Краснодара.",
+      "published_at": "2026-11-13T09:43:36.974833+00:00"
     }
   ],
   "used_links": [
@@ -190,7 +199,8 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzdHQmdDVUZneXp5cTRGOGZGOEg1bjJxX2h2elAweTRzbEVPOFFuWXZqUW5wMlhSZXVwQzhfT1BlRk04WjdCM2xUdGRVUUloSzFhY3ZGblVYbGF5ekREbW5BbzdaT0NRZ0dnT0Z1cVUwX1dRbmV5U1A2VXlKVWxZclo2SzJqakFwajNld21rTnJYMURpNDJNcw",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RNUWFFYUNDTG90OTdRYU5uSWhlbFJ4bjdzVzFoVW55OW1fbTFfSzFySURqS0gyZjg0YmVUWTZQLXVKb2NHN283VDdNUVg2MFNua0E2MGVtQl94SGVwYjBoQ19tcUhSbUlINlJFQXM0MUJJX05uWkdjSG9IM01VZFZyYXYzWjVOWUx2Ug",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SXpWWDBjZ0FsT2hvS2pPdmV0T1R6SHRRRXVibi1JTDNGSDJGckVLYzhyQ2VDTFhUWXZLMTNOQ2czWDN0eXRyd0YwdGo4QdIBU0FVX3lxTE1nWEtPWHU0cktLVXZWZnl4SDlIMzV5WmFUdzNFdEU0Q0xSWjJDN01TMkFwQ3lnc2FsVUQzQWdxLUtxbzNDQzNPZkllbXJRazBWVmJ3",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVk5uTWxsbWJyVE43dmFZR25RTS1rbGIwaEt4Y0o5cHJpUVJTWTd0TThaWkhVaFB4YjhMeWtQM0pRSmZXUm1lY3B1MUtLSEx1UnBiVzNNR2FkeThoWGdmTm54cWtibWluQWNOOExYcFBnVXpRMEV3VXBRWmgxYTc4cHpfOG56ZFpKWWR3Y3NwbWZicXBxVFdsb2xhR3NjWkVfTjczZ3EySVRPM01YOW8xRnZGOGdvSmZiXzY4Zi1sUS1sYTIzbHNhMnNmWGdCV1RSTXhNYQ"
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVk5uTWxsbWJyVE43dmFZR25RTS1rbGIwaEt4Y0o5cHJpUVJTWTd0TThaWkhVaFB4YjhMeWtQM0pRSmZXUm1lY3B1MUtLSEx1UnBiVzNNR2FkeThoWGdmTm54cWtibWluQWNOOExYcFBnVXpRMEV3VXBRWmgxYTc4cHpfOG56ZFpKWWR3Y3NwbWZicXBxVFdsb2xhR3NjWkVfTjczZ3EySVRPM01YOW8xRnZGOGdvSmZiXzY4Zi1sUS1sYTIzbHNhMnNmWGdCV1RSTXhNYQ",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zUHZpVDBUSjhqWmZZS0N5aUU2OFNKdHZtb3V2b0gyRFV0N2VLcUJ6dVpRZXZmd0hMOTh0QkdUc0M3MzdaZC02Yk5pYkpySHk5"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -249,11 +259,16 @@
     "#КраснодарКоманды",
     "#КраснодарБлагоустройство",
     "#КраснодарГород",
-    "#КраснодарНашГород"
+    "#КраснодарНашГород",
+    "#КраснодарНашГород",
+    "#КраснодарГородскаяЖизнь",
+    "#КраснодарРайоны"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWVqQXdPVTI3OUZqckRvMGhRODk5TmxGbXVmQU5oenloYlBseHhYM2NTN050RTZKbWNzZm44NHhyLUNNczR0R0c4LVd2cjMwNkJOMXhpLUdMY3pBUXpRSzRqcmQ4cHZJYnhoMkpiVC1Bck9ZZkRkNTQzc0lONmF3N1RpU2pOUWlZcm5lRGM2a1U5SGpuUldLdnEtMHlXdTVvYVFqZUp3YXNyTDF5SG1zRzNMU2VwTllobE5Xd0VUbjR0ZkE1WUZvZ3pqd2hWdHM3REE",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0puRDdTM2d3VHpIMS1hMmRRb182aEpDT0k1VTVpM2dJaWNvV0diM0dTZmxwRVBtX2Qzc0I4VEx1VGxwR0RoVTVBR3VUbm9UYWI4amNkMVk4RnVFWnlQMWJXNUo1VG5lMjdUVTdybUVaTi1fb1dqTUx6QmJEaGhPbVdaek5jelR4ZlhBOTF0NDAtdGYwR0ptODJsSUptUmVWdHRJdzh6ZWs2NVFzUmI0dlYydWJHQjZJ"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0puRDdTM2d3VHpIMS1hMmRRb182aEpDT0k1VTVpM2dJaWNvV0diM0dTZmxwRVBtX2Qzc0I4VEx1VGxwR0RoVTVBR3VUbm9UYWI4amNkMVk4RnVFWnlQMWJXNUo1VG5lMjdUVTdybUVaTi1fb1dqTUx6QmJEaGhPbVdaek5jelR4ZlhBOTF0NDAtdGYwR0ptODJsSUptUmVWdHRJdzh6ZWs2NVFzUmI0dlYydWJHQjZJ",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3NiTmFNeFdVSkhlWDNUSmZpQTFsYU0xNkFsLTBJRzZKTFVxZmVLZndWVmNNMGE0NmJRdXZLZ01TVmdaRC1Kc0gzd21TRHExVElxSEwzdHd1S29HbVNWak9PektaMHdoQ2pVTTVfSHdVWnZvUktDQnlXNjc1a1pwZjFsTS1xeS1OT1ROd2tPcFlqNGVBTmNmd044MWJVRzVRaTdILWVYakM",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3V3RDRsOGctdHFDR1IzbUswT1gwNWQtNUx6M203eVFVcUlhM2FULTJMaUIxeXRqZmZ1Ri15THFFU0FWeENPbXhyeGk2SVFDcHEwZVpMaFNWT0NISjNhRGJPd3hJYm9JLTdHb0liRnd6N2kxemlHSXBEeEZjSWJzcU1uN1UxTlNWMzRrc2JQR0FYU0FUbGRFRlNzbVRXS180ZHYzZDdsVkE3NUU3NVRfRUhqNFk4NTBTWmFnRnV1WkZMRFV4Nkgxd09rU19mZmptVmcteGVBSQ"
   ]
 }
