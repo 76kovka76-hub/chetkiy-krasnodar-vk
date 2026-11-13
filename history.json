@@ -224,6 +224,15 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaVpEck8wbEFzdUt1T1l6N0NxYWtwN2hVX1NiVjZRTGJGRmpSMUxfZk5fNFJmWV9hM3ozcVhqdmdiSngxd0FxQ0oxcw?oc=5",
       "text": "🏙️ Народ, в Краснодаре задержали бездомного, сдавшего чужую трансмиссию в металлолом.",
       "published_at": "2026-11-13T14:48:32.168851+00:00"
+    },
+    {
+      "slot": "2026-11-13-23",
+      "post_id": 26,
+      "source": "Google Новости",
+      "title": "Пропавший перед рейсом кот месяц провёл в аэропорту Краснодара - BFM Кубань",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00V0pqbVNLN0J1NHdZR2Y4Y2MxLXZRN1Exck9jeHNXR2RIMEllb05FNEZZZFd5RGl3OXVHdmlFajV4N3drV1E?oc=5",
+      "text": "🏙️ Городские, Пропавший перед рейсом кот месяц провёл в аэропорту Краснодара.",
+      "published_at": "2026-11-13T15:31:28.805183+00:00"
     }
   ],
   "used_links": [
@@ -250,7 +259,8 @@
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ERU5lN3lXTi1HVjVFb0FoMzVsc2psX0Zab0Jpb1F5VlBvSUNjSXR0TnVRRER2UDZadG5jNlNudEs3QlA0a3NJWWRiTQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBJR3Jaa0RKdWZrM3hQeDN6QUJ0dzQyVWU4Q1g5cjJSeEZhcTRjaXJ0N3ZmNTdQZkg2MWpCWkl0dHJVX1ZVMEtFSkl0VWN6RV9lSTRCbnZIcER3TGFtRmVnLWNGeXBjb2V0TXpyV3lSZUI4b3Z2cTg0YnJ6ZmVNM1pGcVNIdmxFbVZjYUJ0ZXlHazRQdk1mR2U3cXlLQzVQ",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SV19mVG9BRVdlX3BGZXVNU29QbFU4aldlNllNZ2F5cnhKejdrbUZhNzQ4VFoySjFHTU80QjdiSThfNmJaNTFOdW9Gcw",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaVpEck8wbEFzdUt1T1l6N0NxYWtwN2hVX1NiVjZRTGJGRmpSMUxfZk5fNFJmWV9hM3ozcVhqdmdiSngxd0FxQ0oxcw"
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaVpEck8wbEFzdUt1T1l6N0NxYWtwN2hVX1NiVjZRTGJGRmpSMUxfZk5fNFJmWV9hM3ozcVhqdmdiSngxd0FxQ0oxcw",
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00V0pqbVNLN0J1NHdZR2Y4Y2MxLXZRN1Exck9jeHNXR2RIMEllb05FNEZZZFd5RGl3OXVHdmlFajV4N3drV1E"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -327,7 +337,10 @@
     "#КраснодарСпорт",
     "#КраснодарРайоны",
     "#КраснодарБлагоустройство",
-    "#КраснодарГород"
+    "#КраснодарГород",
+    "#КраснодарБлагоустройство",
+    "#КраснодарГород",
+    "#КраснодарНашГород"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
@@ -337,6 +350,7 @@
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3V3RDRsOGctdHFDR1IzbUswT1gwNWQtNUx6M203eVFVcUlhM2FULTJMaUIxeXRqZmZ1Ri15THFFU0FWeENPbXhyeGk2SVFDcHEwZVpMaFNWT0NISjNhRGJPd3hJYm9JLTdHb0liRnd6N2kxemlHSXBEeEZjSWJzcU1uN1UxTlNWMzRrc2JQR0FYU0FUbGRFRlNzbVRXS180ZHYzZDdsVkE3NUU3NVRfRUhqNFk4NTBTWmFnRnV1WkZMRFV4Nkgxd09rU19mZmptVmcteGVBSQ",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lUEp1RndLSVBFQVdKbFJOV0dpU0hBS1N2SWZyZTBtVVpxWEktVmFaT3U3T0lJaHVKLUcwS2RWYk1Ba1A4cHpqeQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVZkTk9GNFVNQjFPeFJOMkN1ZDZ3Y0h3bUcxTk9DdzVkWXRMOUtFckhxSDhJNk52LXp3dHhXY25PT3R1ZURteDc3NHBzc3RMOGx3d25iTjJvVTd4SUZsR3JuT2ozMXVaa1pXUnROOEdRREFmUm5PUU9fVVppa1ZGVW9RN3FrNS14b016a1NKZlFOSFE2cWVycE5ZR3RJMkRnVFpPMzdwMzR4VHlfa1VDcg",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EbFkxczMzMF9ReG9SSE5Hb1JYaGtTbkZHb2tmdFU3OGtNVXl2OVprWXJqSDJ3WjhaSmxYT25zRFlfaVdQQ1E"
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EbFkxczMzMF9ReG9SSE5Hb1JYaGtTbkZHb2tmdFU3OGtNVXl2OVprWXJqSDJ3WjhaSmxYT25zRFlfaVdQQ1E",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtQTBRdTBJM3ZkbG9qX2lsWVVJZlQtRkd4d1RqRlVNb1JYYlR1Q203NGl4blpmVnM4T2E5SlBMSGE3WHk5bGktaUF2OA"
   ]
 }
