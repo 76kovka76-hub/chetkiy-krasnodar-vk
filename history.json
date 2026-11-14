@@ -377,6 +377,15 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ?oc=5",
       "text": "🏙️ Народ, Пьяные пассажирки устроили дебош на борту рейса Краснодар — Красноярск.",
       "published_at": "2026-11-14T07:32:51.039112+00:00"
+    },
+    {
+      "slot": "2026-11-14-14",
+      "post_id": 43,
+      "source": "Google Новости",
+      "title": "ЭСК РФС признала гол «Краснодара» в ворота ЦСКА правильным - BFM Кубань",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KYlZLVDlHM1o2c21ReXZWV28xUDZOY2U0c05JVWRQWmdfaDRNMTZRbVF0VXptWEc3cWJIT2dQQmVwRmNoV3c?oc=5",
+      "text": "🏙️ Братва, ЭСК РФС признала гол «Краснодара» в ворота ЦСКА правильным.",
+      "published_at": "2026-11-14T08:25:18.747527+00:00"
     }
   ],
   "used_links": [
@@ -420,7 +429,8 @@
     "https://news.google.com/rss/articles/CBMiREFVX3lxTE1IT0ZMQmlCNktpQ3RCU1Q1VWNleEdONEtFWGV4bW1qOUE0X2VxeDRON3ExNU1rZEhBcXlpVWw0ald6OHVC",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmY1WTVuX2Y5anVwUncyWWJTTWc2T2dlR2VXUnhJWEdmdzNmVzJ2UmVXNWt6S1RIdkZ5U0x3OF9GTVNESC04eDJycGZxdkoxUWtWLUZ4U2JJYTF2TEt0VEF6dVMzNWhnU3VMXzlXZmNndUlObVNNQnVxNm9ONGJWckxrRHU4a2dmTkhwV0gyTURzNlB6aVdTOVQwOExnSU1mTFpSdFRTNUZfejlSdTJuUXNR",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMGFadkR2dnZvdnM3ZW1ISmVURWdyTmlkeENEVm1qdXNYS0xtTGl6VXRVRjdCdFlHSTdaQjFjTl9WS3JVaFBRMTBxdTlsajdT",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ"
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ",
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KYlZLVDlHM1o2c21ReXZWV28xUDZOY2U0c05JVWRQWmdfaDRNMTZRbVF0VXptWEc3cWJIT2dQQmVwRmNoV3c"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -548,7 +558,10 @@
     "#КраснодарГородскаяЖизнь",
     "#КраснодарРайоны",
     "#КраснодарБлагоустройство",
-    "#КраснодарГород"
+    "#КраснодарГород",
+    "#КраснодарГород",
+    "#КраснодарНашГород",
+    "#КраснодарГородскаяЖизнь"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
