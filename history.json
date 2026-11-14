@@ -368,6 +368,15 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMGFadkR2dnZvdnM3ZW1ISmVURWdyTmlkeENEVm1qdXNYS0xtTGl6VXRVRjdCdFlHSTdaQjFjTl9WS3JVaFBRMTBxdTlsajdT?oc=5",
       "text": "🏙️ Братва, Более 40 конференций и семинаров пройдут на \"ЮГАГРО\" в Краснодаре.",
       "published_at": "2026-11-14T06:22:01.967085+00:00"
+    },
+    {
+      "slot": "2026-11-14-13",
+      "post_id": 42,
+      "source": "Google Новости",
+      "title": "Пьяные пассажирки устроили дебош на борту рейса Краснодар — Красноярск - Новая Кубань",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ?oc=5",
+      "text": "🏙️ Народ, Пьяные пассажирки устроили дебош на борту рейса Краснодар — Красноярск.",
+      "published_at": "2026-11-14T07:32:51.039112+00:00"
     }
   ],
   "used_links": [
@@ -410,7 +419,8 @@
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bXl6SFlfM2p3TVJCRW95MkwyTDJENTB4WjJGMUtadUNldHBHN3ZXaFluNzQyMVg5RXlYVkNmM1ZDWFd1UDRpaS16RnhRak5MNGcwTHM4M3kydDJHOTlZdk9DbG1EMGRVQ1VKWkNn0gFzQVVfeXFMTWpYWmdjVlhRSWpWdVNUTmtnOWEyMzNLRGI5bkpDWWtxXzhhVEJMWi1zN1l2bHZQUlFnUWVHNnNxZ2JrcEJ5SzkxOEhQX3lrYXZROUhUOGZacTBuRHozcTk5OHVKWTVLVnh4QVM1bTRmTU1SZw",
     "https://news.google.com/rss/articles/CBMiREFVX3lxTE1IT0ZMQmlCNktpQ3RCU1Q1VWNleEdONEtFWGV4bW1qOUE0X2VxeDRON3ExNU1rZEhBcXlpVWw0ald6OHVC",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmY1WTVuX2Y5anVwUncyWWJTTWc2T2dlR2VXUnhJWEdmdzNmVzJ2UmVXNWt6S1RIdkZ5U0x3OF9GTVNESC04eDJycGZxdkoxUWtWLUZ4U2JJYTF2TEt0VEF6dVMzNWhnU3VMXzlXZmNndUlObVNNQnVxNm9ONGJWckxrRHU4a2dmTkhwV0gyTURzNlB6aVdTOVQwOExnSU1mTFpSdFRTNUZfejlSdTJuUXNR",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMGFadkR2dnZvdnM3ZW1ISmVURWdyTmlkeENEVm1qdXNYS0xtTGl6VXRVRjdCdFlHSTdaQjFjTl9WS3JVaFBRMTBxdTlsajdT"
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMGFadkR2dnZvdnM3ZW1ISmVURWdyTmlkeENEVm1qdXNYS0xtTGl6VXRVRjdCdFlHSTdaQjFjTl9WS3JVaFBRMTBxdTlsajdT",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -535,7 +545,10 @@
     "#КраснодарНашГород",
     "#КраснодарГород",
     "#КраснодарНашГород",
-    "#КраснодарГородскаяЖизнь"
+    "#КраснодарГородскаяЖизнь",
+    "#КраснодарРайоны",
+    "#КраснодарБлагоустройство",
+    "#КраснодарГород"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
