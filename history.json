@@ -395,6 +395,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajkydWxURjJIU045TnJEa1d1NWhUNFA4bFZjMGRKVG4zb3pNSVM2Q0pBQkJCWHpZLWVzMVgtZHo1RW5JSnRJd1pVMllYWThvM0VGM3VTdU56Y2ZmVjlHWXphX1MzQ2Q3MDNicTNNNWkxQ28tTWhzQkhfSU05Zm5ET081dmxuNmxRSm05cG5NLS13VFYxS1gyTGhqZmtEbHBjMGlxYnphZWJydVRKcV9ERE1tNmpvX2lxZHRv?oc=5",
       "text": "🏙️ Городские, в Краснодаре супруги потеряли более 3,6 млн рублей, пытаясь купить автомобиль из Германии.",
       "published_at": "2026-11-14T09:17:36.769315+00:00"
+    },
+    {
+      "slot": "2026-11-14-16",
+      "post_id": 45,
+      "source": "Google Новости",
+      "title": "Экс-игрок ФК «Краснодар» Матвей Сафонов поставил себе «пять с плюсом» за сезон - Кубань 24",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUg5TUl3ajFQc3NLOXBzVEttYWRIVkVBTXl0TWUzMWE3U1FGd1F5YVJPUjNlZklZY0RraTRrYmVkdlNzUXByNkZRZUhBbGp1SXh2YUYzNzFFQUhKczVqd01xbDJmdnRVTWZVMm9rUmdjTzRCWlAxbFlyYlJ3UENrT0F5MDhtOUR4Zm42ZjNUdXUyU3l6TUpPNWlrU3FYNDI4?oc=5",
+      "text": "🏙️ Братва, Экс-игрок ФК «Краснодар» Матвей Сафонов поставил себе «пять с плюсом» за сезон.",
+      "published_at": "2026-11-14T10:07:44.852831+00:00"
     }
   ],
   "used_links": [
@@ -440,7 +449,8 @@
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMGFadkR2dnZvdnM3ZW1ISmVURWdyTmlkeENEVm1qdXNYS0xtTGl6VXRVRjdCdFlHSTdaQjFjTl9WS3JVaFBRMTBxdTlsajdT",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uSmxCQjZDMzhnTjdQNjFnWVZNR2tmS3J2S2ZGTXJzOVlLQnFINFJiYWdaWUZlR2FyY1lHdjQzSFBHVTVrbENYTFdYWQ",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KYlZLVDlHM1o2c21ReXZWV28xUDZOY2U0c05JVWRQWmdfaDRNMTZRbVF0VXptWEc3cWJIT2dQQmVwRmNoV3c",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajkydWxURjJIU045TnJEa1d1NWhUNFA4bFZjMGRKVG4zb3pNSVM2Q0pBQkJCWHpZLWVzMVgtZHo1RW5JSnRJd1pVMllYWThvM0VGM3VTdU56Y2ZmVjlHWXphX1MzQ2Q3MDNicTNNNWkxQ28tTWhzQkhfSU05Zm5ET081dmxuNmxRSm05cG5NLS13VFYxS1gyTGhqZmtEbHBjMGlxYnphZWJydVRKcV9ERE1tNmpvX2lxZHRv"
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajkydWxURjJIU045TnJEa1d1NWhUNFA4bFZjMGRKVG4zb3pNSVM2Q0pBQkJCWHpZLWVzMVgtZHo1RW5JSnRJd1pVMllYWThvM0VGM3VTdU56Y2ZmVjlHWXphX1MzQ2Q3MDNicTNNNWkxQ28tTWhzQkhfSU05Zm5ET081dmxuNmxRSm05cG5NLS13VFYxS1gyTGhqZmtEbHBjMGlxYnphZWJydVRKcV9ERE1tNmpvX2lxZHRv",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUg5TUl3ajFQc3NLOXBzVEttYWRIVkVBTXl0TWUzMWE3U1FGd1F5YVJPUjNlZklZY0RraTRrYmVkdlNzUXByNkZRZUhBbGp1SXh2YUYzNzFFQUhKczVqd01xbDJmdnRVTWZVMm9rUmdjTzRCWlAxbFlyYlJ3UENrT0F5MDhtOUR4Zm42ZjNUdXUyU3l6TUpPNWlrU3FYNDI4"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -574,7 +584,10 @@
     "#КраснодарГородскаяЖизнь",
     "#КраснодарБлагоустройство",
     "#КраснодарГород",
-    "#КраснодарНашГород"
+    "#КраснодарНашГород",
+    "#КраснодарГород",
+    "#КраснодарНашГород",
+    "#КраснодарГородскаяЖизнь"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
@@ -592,6 +605,7 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVNxN3QyeDNNbl9zTFE5bnpWU1k0azhaZFF4MEZNRy02V3V0T2FtazliTWlGRTJtRkJsbTItR1pxX3oxenZMM05hc0Y2TlR4Z21tMmJyZ0EzQlBtLXQteVJrTGJsUGE5U0Z3SVZFLXNfeE91bW9FUVpRM1ppbmhpaEprUVRNTUg3NDJYbGNGb2RPcnJ2OUdCRmlEUU5HVWlGT3V4UFZVMlBBQ2tDcHh2alF1aGdWQQ",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbzdhSXZPRlpfeGpwNDh2UjFSMHpQWUhjcDlsMTRTS2paTEhRSGlsc1FJR2M0YmkyYmkxMGJ1VlBYZUNwb1piV0J2NVJpYUZZSnRrYWxQR0dQX2tGeHozZlQxTlZ2TmlZci1rcFZiVU8zWTRRY0gxekk2T2FoNnNWdWFPdUpsS051ZTF2V3NVUkJiU1ZlLWJFcFBQWU4tOTRHc0xLa3ljNGZHelE5dWtpZ2puMXZXZjhDR2RHNW9QWFdKcWc3Y05VODVndlIyeVVfSW5MU2x6S1RmSGpUalhRRnpWUEdFcW52a3V0S3E4emU4anhsbGhkOWJqMmxvWTZOZXhVRQ",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRC1aazdENndiRG92ekhqWWdFSFpnbEdjQURPN3ZMNzdfQU1LY19jNWwzVVl5UXhwNmpxWTZ2ZDlLcFZwTXQwd19qbFhPN2ZNaHN3TGN4bnBWc01sWmlzbmpCVHVsYkdpV1NOcHZZSGQ2dmp6dVg5ekVqLTdYQ3ZmVTQtSVJra0ZXOUVIajFuSDdIajN2NXdlWlRZaElUM0FxQm9j",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlJ2YnMwd2pnd2VEcFgxNXloTWFVdFNqS3Q2UHYxOVp1VjA0VEoxcUxONVFOOTk3Y2lxWVpXOUNmOW53RFE3U1pDU3BxQnRkUnFfM1RYOVNhM2lUVGtFcDJKbDN3TFVOZXRBMWh5eDQ4MDRoMXFVQ21PNW9HV1lCTWhoc1VXZ1k5cDJiM1FPUF8"
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlJ2YnMwd2pnd2VEcFgxNXloTWFVdFNqS3Q2UHYxOVp1VjA0VEoxcUxONVFOOTk3Y2lxWVpXOUNmOW53RFE3U1pDU3BxQnRkUnFfM1RYOVNhM2lUVGtFcDJKbDN3TFVOZXRBMWh5eDQ4MDRoMXFVQ21PNW9HV1lCTWhoc1VXZ1k5cDJiM1FPUF8",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3lmSk16cmh4RVozYjlmRjhQcDdFWG8xSzBYeEgyOGhkT2gyM1dkc2lkSDhFU3Z1OS1BWW1VT0VFTVk0YVY3Q3NNb3JUWjZ4ZnlRWF9RUm94R0hndlhkbTU1akpvaDJIVFpDYlRCclB4WTMyZ3hDMzlJS0h1Q2gzb09pWVgtMS1J"
   ]
 }
