@@ -440,6 +440,15 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDNHUnJXUHVnemhkaXE4a3dnLTJTUWNySVFtUDVtelk2b2V2QmpzYTBac1pqTVdpY3I1Sm9oN25sNXJiQVgtS2d3QTJ1aUx0UGIzYTB1UDhCVUlpSW1Ja3Y2a3IxbzB6Sk1DLXZ4YU1YNnk1c3BkSUpiRTJKd3E4ZWdiTHd2a1VCWHQ4ZEJVb282azBldk43Zg?oc=5",
       "text": "🏙️ Пацаны, в Краснодаре раскрыли тайну чеховских «Трех сестер».",
       "published_at": "2026-11-14T13:44:53.240708+00:00"
+    },
+    {
+      "slot": "2026-11-14-21",
+      "post_id": 50,
+      "source": "Google Новости",
+      "title": "В Краснодаре школьникам рассказали о работе с цифровыми помощниками 14.11.2026 - Юг Times",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjOE5WOUNubFk2Y0dBdHVhQS15R2xSSVpxaHNsa0UyZ2JWRTNxOFI3ZVcyejZzdmd3b3c3V2IyblpzRVNaT0o1Qg?oc=5",
+      "text": "📚 Братва, в Краснодаре школьникам рассказали о работе с цифровыми помощниками 14.11.2026.",
+      "published_at": "2026-11-14T14:28:56.852692+00:00"
     }
   ],
   "used_links": [
@@ -490,7 +499,8 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQml5NDlWVTVXd3VIUGtPdUFvWEtMcklFYm9aVjJjLVFTRUZ4RnktUkp6TmN3VnBDREN4NDZTT1AzbGJZVnRJcGl1N2hGQ2FSSjdyUDUtRUVZSHhoRXhVXzFWWEhrbURnZkVSV2JsVWg0MFZaR0lLLXJDdmo4V1hubFdXZnpia2lJWG1sQXIzRjRnMWtQZ0hpRExnYndMWHZRU2FvbnRYakNwN2xHZ2w3bFUzMmZiU1RRU0Z5dXQwLUF2T2xWdDN0UnYyOFhhOXdlR2x2cThQU1VqLXc",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzRyOFpFNXgxVGwtal9ZR0NvSFZTbVp3VEx2Rk92Um05U3l2LWJKdWdxV0RWLTRmTE9BMzhLU1NxejVCUjZDb0xKUUNnQVdFWWNCY3oxMFZ2NVZJQWNqbERlZXRsOWJRMXRubXRCYmVyRmdHMlI2T2JVdlc1eER2c3hWNHZqaEZzcnllTE44LTVRNHRIZ1lGUzk1MGs3endmc3VmcDFOUUV1dGtnYlotQTZvQW4yN3FuNlpNRkFSbjE0VzhTRHdHdHhCQlEydTBweFcw",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90cGVlS3ZWaHlhNzdDX0RmRkRsMHc2V3NoNU5laXdGZy0xWEo4a2ZDOTA4T0wxeXllbHV4c1J2elRGZUktakpGcg",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDNHUnJXUHVnemhkaXE4a3dnLTJTUWNySVFtUDVtelk2b2V2QmpzYTBac1pqTVdpY3I1Sm9oN25sNXJiQVgtS2d3QTJ1aUx0UGIzYTB1UDhCVUlpSW1Ja3Y2a3IxbzB6Sk1DLXZ4YU1YNnk1c3BkSUpiRTJKd3E4ZWdiTHd2a1VCWHQ4ZEJVb282azBldk43Zg"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDNHUnJXUHVnemhkaXE4a3dnLTJTUWNySVFtUDVtelk2b2V2QmpzYTBac1pqTVdpY3I1Sm9oN25sNXJiQVgtS2d3QTJ1aUx0UGIzYTB1UDhCVUlpSW1Ja3Y2a3IxbzB6Sk1DLXZ4YU1YNnk1c3BkSUpiRTJKd3E4ZWdiTHd2a1VCWHQ4ZEJVb282azBldk43Zg",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjOE5WOUNubFk2Y0dBdHVhQS15R2xSSVpxaHNsa0UyZ2JWRTNxOFI3ZVcyejZzdmd3b3c3V2IyblpzRVNaT0o1Qg"
   ],
   "used_tags": [
     "#КраснодарНаСвязи",
@@ -639,7 +649,10 @@
     "#КраснодарГородскаяЖизнь",
     "#КраснодарНашГород",
     "#КраснодарГородскаяЖизнь",
-    "#КраснодарРайоны"
+    "#КраснодарРайоны",
+    "#КраснодарУчёба",
+    "#КраснодарСтуденты",
+    "#КраснодарОбразование"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJ5UTVyODNKMndsaGQ5UE9ad18tSHM1MmRpWGs4eFUta3p4dW9HSC1mYXczNlNLZzJuelQ2UTJnUWtEM1N0R00wc3FpaG83MkYwVUFaUkQ3MUpleUJjTTdTRWlERXpMaEEyeHh1WFNMODB2cXZFenlDUVV4bWxWSEtLcUR6eXRQSkJsTkxqSWkzR2J5LWNSX3RHN0RGQlN2NFZIbEpWV3FCNEFEc0EzNmV3TGloLVZ6RjdCM0Y3UGpkQQ",
